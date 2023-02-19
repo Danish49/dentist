@@ -587,6 +587,8 @@ html {
   .about .box1 img {
     padding: 0 2rem;
     border-radius: 0;
+    content: url("/images/home-bg.jpg");
+  
   }
   .services {
     height: fit-content;
