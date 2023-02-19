@@ -576,10 +576,10 @@ html {
   }
   .about {
     overflow: hidden;
-    padding: 0rem 2rem;
+    padding: 6rem 2rem;
     text-align: left;
     margin-top: 0;
-    height: 70vh;
+    height: fit-content;
   }
   .about .box1 {
     margin-right: 0;
